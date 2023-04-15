@@ -1,8 +1,8 @@
 #Всем привет!
 
 Меня зовут Руслан, мне 27 лет. Живу в Казани вместе со своей женой Яной и прекрасной таксой по имени Лея. Да да, я фанат Звездных Войн :D
-![Мы с женой](/Изображения/ac4fc95b-5581-485d-8ebb-1bf4e21dadbe.jpg)
-![Лея](/Изображения/cdd0fede-51f9-4c75-b624-472ef9f2ce8c.jpg)
+![Мы с женой](https://drive.google.com/file/d/1J6eGvOMIcPyRfVthzVuKegSYusx7geNY/view?usp=sharing)
+![Лея](https://drive.google.com/file/d/1ENhfN8u0tMJFs7VIwHRxV6unZWPRgJ_j/view?usp=sharing)
 
 Все вместе мы обучаемся на [Нетологии](https://netology.ru/) чтобы изучить интересную удаленную профессию и иметь возможность путешествовать.
 
